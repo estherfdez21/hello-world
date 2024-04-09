@@ -1,2 +1,2 @@
 # Introducció
-# Continuación
+# Continuació
